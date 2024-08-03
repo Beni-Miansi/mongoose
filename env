@@ -1,0 +1,1 @@
+MONGO_URI='mongodb://atlas-sql-66ab7ab1fe99452b95af7b1f-fh7wj.a.query.mongodb.net/sample_airbnb?ssl=true&authSource=admin'
